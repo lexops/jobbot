@@ -1,0 +1,16 @@
+{
+  "name": "jobbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "echo $DISPLAY && cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.9.0",
+    "dotenv": "^16.4.5"
+  }
+}
